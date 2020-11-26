@@ -1,5 +1,5 @@
 {
-  "name": "synchronize",
+  "name": "@triggi/synchronize",
   "main": "./sync",
   "version": "2.0.3",
   "homepage": "http://alexeypetrushin.github.com/synchronize",
