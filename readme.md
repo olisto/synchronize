@@ -1,3 +1,10 @@
+> Recommended way to install (although you probabably shouldn't be adding this as a dependency anymore):
+> ```
+> npm i synchronize@npm:@triggi/synchronize
+> ```
+> That way you can still do `const {...} = require('synchronize')`  
+> Instead of having to do `const {...} = require('@triggi/synchronize')`
+
 synchronize.js allows You write asynchronous code as if it's synchronous.
 
 Documentation [http://alexeypetrushin.github.com/synchronize](http://alexeypetrushin.github.com/synchronize)

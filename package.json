@@ -1,11 +1,11 @@
 {
-  "name": "synchronize",
+  "name": "@triggi/synchronize",
   "main": "./sync",
   "version": "2.1.0",
   "homepage": "http://alexeypetrushin.github.com/synchronize",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexeypetrushin/synchronize.git"
+    "url": "https://github.com/olisto/synchronize.git"
   },
   "dependencies": {
     "fibers": "^5.0.0"
